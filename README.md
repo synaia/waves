@@ -1,4 +1,5 @@
-Very basic streaming audio with fastapi.
+## API for waves project
+### also a very basic audio streaming 
 
 ### Install  instructions
 ```shell
@@ -8,7 +9,7 @@ activate waves_env
 
 git clone https://github.com/synaia/waves_env.git
 
-cd audio_streaming
+cd waves_env
 
 pip install -r requirements.txt
 
