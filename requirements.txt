@@ -8,3 +8,4 @@ pydantic
 python-jose
 passlib
 bcrypt
+pytube
